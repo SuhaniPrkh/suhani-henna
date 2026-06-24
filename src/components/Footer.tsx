@@ -27,7 +27,7 @@ export default function Footer({ onScrollToSection }: FooterProps) {
                   Suhani <span className="text-editorial-gold">Henna</span>
                 </span>
                 <span className="text-[8px] tracking-[0.25em] block uppercase text-[#F8E1DA]/60 font-mono">
-                  Organic Mehndi Artistry
+                  Bringing Tradition To Life
                 </span>
               </div>
             </div>
