@@ -54,7 +54,7 @@ export default function Navbar({ onScrollToSection, openBookingDashboard, bookin
                 Suhani <span className="italic font-light text-editorial-gold">Henna</span>
               </span>
               <span className="text-[8px] tracking-[0.3em] block uppercase text-editorial-burgundy/60 font-mono">
-                Organic Mehndi Artistry
+                Bringing Tradition To Life
               </span>
             </div>
           </div>
